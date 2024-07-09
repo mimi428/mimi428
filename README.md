@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mimi428 (Mihika Ranjit)
+- 👋 Hi, I’m Mihika Ranjit
 - 👀 I’m interested in UI/UX and graphic designing 
 - 📫 How to reach me: https://www.linkedin.com/in/mihika-ranjit-0894b9237/
 - 😄 Pronouns: she/her
