@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX
 - 📫 How to reach me: https://www.linkedin.com/in/mihika-ranjit-0894b9237/
 - 😄 Pronouns: she/her
-- Still learning and exploring
+- Exploring and learning new things everyday 
 
 
 <!---
