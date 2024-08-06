@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimi428&label=Profile%20views&color=0e75b6&style=flat" alt="mimi428" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimi428" alt="mimi428" /></a> </p>
-
 - 📫 How to reach me **mihika.ranjit1@gmail.com**
 - 👀 I’m interested in UI/UX and designing
 - 😄 Pronouns: she/her
