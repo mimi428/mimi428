@@ -1,5 +1,4 @@
-# 💫 About Me:
-- 👋 Hi, I’m Mihika Ranjit
+# 👋 Hi, I’m Mihika Ranjit
 - 🌱 I’m currently studying BSc.CSIT
 - 👀 I’m still exploring and learning 
 
