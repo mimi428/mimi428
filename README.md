@@ -1,6 +1,6 @@
 <h4 align="center">
                                                                                                                                                                         
-  Welcome to Mihika Ranjit's profile!
+Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
  </h4>
 
