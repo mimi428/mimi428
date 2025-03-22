@@ -6,7 +6,6 @@ Hey, I'm Mihika!
 👩‍💻 Aspiring Web Developer | Computer Science Student<br>
 🌱 Diving Deep into Angular & Frontend Technologies<br> 
 🚀 Building Scalable & User-Centric Web Applications<br>
-🤝 Eager to Collaborate and Learn from Fellow Developers<br>
 📩 Let’s connect! Always open to discussions, collaborations, and new ideas.<br>
 
 ## 🌐 Socials:
