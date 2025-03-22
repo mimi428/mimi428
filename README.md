@@ -4,7 +4,7 @@ Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
  </h4>
 
-👨‍🎓 I’m a computer science student.<br>🌱 I’m currently learning frontend web development.<br>🤓 Always learning new things.<br>🤝 I’m looking to collaborate with other developers.
+👨‍🎓 Computer science student.<br>🌱Angular web development.<br>🤓Learning new things.<br>🤝 I’m looking to collaborate with other developers.
 
 
 ## 🌐 Socials:
