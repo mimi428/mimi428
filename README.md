@@ -3,11 +3,11 @@
 Hey, I'm Mihika!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
  </h4>
-👩‍💻 **Aspiring Web Developer | Computer Science Student**  
-🌱 **Diving Deep into Angular & Frontend Technologies**  
-🚀 **Building Scalable & User-Centric Web Applications**  
-🤝 **Eager to Collaborate and Learn from Fellow Developers**  
-📩 **Let’s connect! Always open to discussions, collaborations, and new ideas.** 
+👩‍💻 Aspiring Web Developer | Computer Science Student<br>
+🌱 Diving Deep into Angular & Frontend Technologies<br> 
+🚀 Building Scalable & User-Centric Web Applications<br>
+🤝 Eager to Collaborate and Learn from Fellow Developers<br>
+📩 Let’s connect! Always open to discussions, collaborations, and new ideas.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mihika.ranjit.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mihika-ranjit-0894b9237/) 
