@@ -1,6 +1,6 @@
 <h4 align="center">
                                                                                                                                                                         
-Hey, It's Mihika!
+Hey, It's Mihika Ranjit!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
  </h4>
 👩‍💻 Aspiring Web Developer | Computer Science Student<br>
