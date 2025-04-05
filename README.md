@@ -3,7 +3,7 @@
 Hey, It's Mihika Ranjit!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
  </h4>
-👩‍💻 Aspiring Web Developer | Computer Science Student<br>
+👩‍💻 Aspiring Web Developer and Computer Science Student<br>
 🌱 Diving Deep into Angular & Frontend Technologies<br> 
 🚀 Building Scalable & User-Centric Web Applications<br>
 📩 Let’s connect! Always open to discussions, collaborations, and new ideas.<br>
